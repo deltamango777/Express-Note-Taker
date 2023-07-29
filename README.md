@@ -19,7 +19,12 @@ Either download the repo and follow the start script located in the package.json
 
 ## Usage
 
-Open the site and then click the notes button to be taken to the notes page. There you can leave a note title and content, of which then a save icon will appear in the top right  and you can press that to save the note. If you want to create a new note, press the "+" icon in the top right. If you want to view past notes, see and select them on the left side of the screen. And if you want to delete a note, simply press the trash icon next to one and voila. It's gone. 
+Open the site and then click the notes button to be taken to the notes page.
+![Alt text](assets/noteimage1.png)
+
+ There you can leave a note title and content, of which then a save icon will appear in the top right  and you can press that to save the note. If you want to create a new note, press the "+" icon in the top right. If you want to view past notes, see and select them on the left side of the screen. And if you want to delete a note, simply press the trash icon next to one and voila. It's gone. 
+
+ ![Alt text](assets/noteimage2.png)
 
 ## Credits
 
